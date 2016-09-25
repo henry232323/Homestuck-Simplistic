@@ -10,11 +10,11 @@ Y8b  d8 db   8D db   8D   88   8D    88      88  .8D 88.     88  V888
  `Y88P' `8888Y' `8888Y'   Y8888P'    YP      Y8888D' Y88888P VP   V8P 
 
 Main Colors Used:
-#FFB7C5 (0,204,204) - Light Pink
+#00cccc (0,204,204) - Light Pink
 #00cccc
 #00cccc
 #00cccc
-
+https://orig08.deviantart.net/1686/f/2013/305/2/c/pentool_forest1_by_axl99-d6so5lb.jpg
 */
 
 body {
@@ -61,7 +61,7 @@ background-size: cover;}
 }
 
 .guild-channels .channel-text.selected:before, .guild-channels .channel-text.selected:hover:before, .guild-channels .channel-text:hover.channel-muted:before, .guild-channels .channel-text:hover:not(.unread):before, .private-channels .channel.selected:before, .private-channels .channel:hover:before {
-    border-left: 3px solid #FFB7C5;
+    border-left: 3px solid #00cccc;
 }
 
 .guild-channels .channel-text:hover {
@@ -112,7 +112,7 @@ background-size: cover;}
     background-color: #00cccc23 !important;
     border-radius: 5px !important;
     font-size: 12px;
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
     line-height: 22px;
 }
 
@@ -125,7 +125,7 @@ background-size: cover;}
 /*Buttons*/
 
 .badge {
-    background-color: #FFB7C5;
+    background-color: #00cccc;
     border: 1px solid rgba(0, 0, 0, 0.5);
     color: #000000;
 }
@@ -186,7 +186,7 @@ background-size: cover;}
 }
 
 .links li a:hover {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .topic.topic-expandable {
@@ -195,7 +195,7 @@ background-size: cover;}
 }
 
 .topic.topic-expandable a {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .topic.topic-expandable:hover {
@@ -356,7 +356,7 @@ background-size: cover;}
 
 span.ping{
       background-color: transparent !important;
-      color: #FFB7C5 !important;
+      color: #00cccc !important;
       transition: opacity 3s ease-in-out
   }
   
@@ -418,7 +418,7 @@ span.ping{
 }
 
 .guild-header-open ul li a {
-    color: #FFB7C5;
+    color: #00cccc;
     opacity: 1 !important;
 }
 
@@ -526,13 +526,13 @@ span.ping{
 }
 
 .highlight {
-    color: #FFB7C5;
+    color: #00cccc;
 }
 
 .highlight:hover {
     background-color: rgba(0, 0, 0, 0.3) !important;
     border-radius: 3px !important;
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .friends-icon {
@@ -557,11 +557,11 @@ span.ping{
 }
 
 .speaking .avatar-small {
-    border: 2px dotted #FFB7C5 !important;
+    border: 2px dotted #00cccc !important;
 }
 
 .speaking .avatar-small:hover {
-    border: 2px dotted #FFB7C5 !important;
+    border: 2px dotted #00cccc !important;
 }
 
 .channel-members .member.popout-open {
@@ -580,24 +580,24 @@ span.ping{
 /* Unread Channel Message */
 
 .guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
-    background: #FFB7C5 !important;
+    background: #00cccc !important;
 }
 
 /* Guild Unread Message */
 
 .guilds-wrapper .guilds .guild.unread:before {
-    background: #FFB7C5 !important;
+    background: #00cccc !important;
 }
 
 /* Guild Unread Message */
 
 .guilds-wrapper .guilds .guild.selected:before {
-    background: #FFB7C5 !important;
+    background: #00cccc !important;
 }
 
 .divider.divider-red span {
     background-color: rgba(0, 0, 0, 0.7) !important;
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .divider.divider-red>div {
@@ -615,11 +615,11 @@ span.ping{
 
 .private-channels .channel.selected:before {
     background-color: linear-gradient(to right, rgba(0,204,204, 0.4), rgba(0, 0, 0, 0.0)) !important;
-    border-left: 2px solid #FFB7C5;
+    border-left: 2px solid #00cccc;
 }
 
 .priavte-channels .channel:hover::before {
-    border-left: 2px solid #FFB7C5 !important;
+    border-left: 2px solid #00cccc !important;
     background-color: linear-gradient(to right, rgba(0,204,204, 0.4), rgba(0, 0, 0, 0.0)) !important;
 }
 
@@ -664,7 +664,7 @@ span.ping{
 
 .new-messages-bar button {
     background-color: #3b3b3b !important;
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 span.bot-tag {
@@ -680,11 +680,11 @@ span.bot-tag {
 }
 
 .instant-invite-popout header {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 .countdown {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .checkbox span {
@@ -731,7 +731,7 @@ span.bot-tag {
 }
 
 .form-header header {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .form-inner p {
@@ -740,7 +740,7 @@ span.bot-tag {
 
 .btn.btn-default.close {
     background-color: rgba(0, 0, 0, 0.0) !important;
-    color: #FFB7C5;
+    color: #00cccc;
 }
 
 .form-header {
@@ -752,7 +752,7 @@ span.bot-tag {
 }
 
 ul li a {
-    color: #FFB7C5;
+    color: #00cccc;
 }
 
 .header.control-group {
@@ -766,29 +766,29 @@ ul li a {
 .avatar-uploader-inner {
     background-color: rgba(0, 0, 0, 0.1) !important;
     border-radius: 4px !important;
-    border-color: #FFB7C5 !important;
+    border-color: #00cccc !important;
 }
 
 #settings-username {
     border-radius: 4px;
     padding-left: 10px;
-    border-color: #FFB7C5 !important;
+    border-color: #00cccc !important;
 }
 
 #settings-email {
     border-radius: 4px;
     padding-left: 10px;
-    border-color: #FFB7C5 !important;
+    border-color: #00cccc !important;
 }
 
 #settings-current-password {
     border-radius: 4px;
     padding-left: 10px;
-    border-color: #FFB7C5 !important;
+    border-color: #00cccc !important;
 }
 
 button.btn.btn-primary {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 .settings-actions {
@@ -796,11 +796,11 @@ button.btn.btn-primary {
 }
 
 a.remove-button {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .control-group label a {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .settings .settings-inner, .settings .settings-actions {
@@ -825,7 +825,7 @@ div.settings-actions{
 }
 
 .checkbox-inner span {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
     border-color: rgba(0, 0, 0, 0.5) !important;
 }
 
@@ -845,11 +845,11 @@ div.settings-actions{
 }
 
 div p a {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .radio-theme.dark label {
-    border-color: #FFB7C5 !important;
+    border-color: #00cccc !important;
 }
 
 .radio-theme.light label {
@@ -861,19 +861,19 @@ div p a {
 }
 
 .slider-bar-fill {
-    background: #FFB7C5 !important;
+    background: #00cccc !important;
 }
 
 .radio .radio-inner span:after {
-    background: #FFB7C5 !important;
+    background: #00cccc !important;
 }
 
 .tab-bar.TOP .tab-bar-item.selected {
-    border-bottom: 2px solid #FFB7C5 !important;
+    border-bottom: 2px solid #00cccc !important;
 }
 
 #help-query {
-    border-color: #FFB7C5;
+    border-color: #00cccc;
     border-width: 3px;
 }
 
@@ -885,17 +885,17 @@ div p a {
 }
 
 .reset-voice-settings {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 /* Add new server popup window */
 
 .form-inner header {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .action-header {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .action-icon {
@@ -903,13 +903,13 @@ div p a {
 }
 
 .btn.btn-primary {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 /* Light Theme Support*/
 
 span.channel-name {
-    color: #ffffff !important;
+    color: #FFFFFF !important;
 }
 
 a.channel-name.channel-private {
@@ -961,7 +961,7 @@ img.image {
 
 #app-mount > div > span:nth-child(6) > div.modal > div > div > a:hover {
     text-align: center;
-    color: #FFB7C5;
+    color: #00cccc;
 }
 
 div.form-inner {
@@ -977,7 +977,7 @@ div.form-inner {
 }
 
 .settings-panel-header.user-settings-modal-connections-header label {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 header.header {
@@ -998,7 +998,7 @@ div#user-profile-modal footer {
 }
 
 .add-friend{
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
     border: 1px solid white;
 }
 
@@ -1007,7 +1007,7 @@ div.scroller.guilds div.guild:hover{
 }
 
 div.btn {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
     border: 1px solid white;
 }
 
@@ -1023,15 +1023,15 @@ div.flex-horizontal.flex-spacer.content-inner label {
 }
 
 label.subtitle {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 label.title {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 div.control-group label {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 div.checkbox span {
@@ -1055,7 +1055,7 @@ div.help-text {
 .channel-pins .message-group {
     background: transparent !important;
     background-color: #00cccc !important;
-    border: 1px solid #FFB7C5 !important;
+    border: 1px solid #00cccc !important;
 }
 
 .action-buttons .jump-button {
@@ -1090,11 +1090,11 @@ li div span {
 }
 
 div.icon-friends {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 .channel-textarea-autocomplete {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 #voice-connection .btn:hover:after {
@@ -1104,7 +1104,7 @@ div.icon-friends {
 
 div.add-friend-popout header {
     background: transparent !important;
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 div.notice {
@@ -1121,7 +1121,7 @@ div.activity {
 }
 
 a.embed-title {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .tab-bar.SIDE .tab-bar-item.selected:before {
@@ -1260,7 +1260,7 @@ div.bd-dropdown-list {
 
 .server-row .server-icon {
     border-radius: 5px !important;
-    border: 2px solid #FFB7C5;
+    border: 2px solid #00cccc;
 }
 
 #pubs-select-dropdown > div > ul {
@@ -1274,7 +1274,7 @@ div.bd-dropdown {
 }
 
 .server-official {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
     animation: color_change 1s infinite alternate;
 }
 
@@ -1287,7 +1287,7 @@ div.bd-dropdown {
   }
   to {
     
-    color: #FFB7C5;
+    color: #00cccc;
   }
 }
 
@@ -1318,8 +1318,8 @@ div.bd-dropdown {
 }
 
 .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb, .bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb {
-    border: 1px solid #FFB7C5 !important;
-    background: #FFB7C5 !important;
+    border: 1px solid #00cccc !important;
+    background: #00cccc !important;
 }
 
 .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb:active, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb:active, .bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb:active, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb:active {
@@ -1373,12 +1373,12 @@ div[data-bd="backdrop"] {
 /* Styling thanks to Nyxxay#8107 */
 
 #rmenu {
-    background: #FFB7C5 !important;
-    border: 1px solid #FFB7C5;
+    background: #00cccc !important;
+    border: 1px solid #00cccc;
 }
 
 .emoji-picker .search-bar input {
-    border: 1px solid #FFB7C5;
+    border: 1px solid #00cccc;
     -webkit-animation: searchpulse 2s infinite;
     animation: searchpulse 2s infinite;
 }
@@ -1412,8 +1412,8 @@ div[data-bd="backdrop"] {
 }
 
 .guild-settings-modal-members {
-    border: 1px solid #FFB7C5 !important;
-    background: #FFB7C5 !important;
+    border: 1px solid #00cccc !important;
+    background: #00cccc !important;
 }
 
 .channel-textarea-autocomplete-inner {
@@ -1439,7 +1439,7 @@ div[data-bd="backdrop"] {
 }
 
 .markup a {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .message-group {
@@ -1522,7 +1522,7 @@ div.guild-header header {
 .account .avatar-small {
     border-radius: 3px;
     margin-left:4px !important;
-    border: 1px solid  #FFB7C5;
+    border: 1px solid  #00cccc;
 }
 
 div.channel-textarea-inner textarea {
@@ -1565,17 +1565,17 @@ background-color: rgba(35,35,35,0.7) !important;
 }
 
 .voice-connection-quality-fine {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 span.text {
     font-size: 10px !important;
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 span.text.strong {
     font-size: 10px !important;
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 spinner-pulsing-ellipsis .spinner-item {
@@ -1728,7 +1728,7 @@ spinner-pulsing-ellipsis .spinner-item {
 
 
 .bda-dark .server-info button {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 #bd-themes-pane > ul > li{
@@ -1748,41 +1748,41 @@ spinner-pulsing-ellipsis .spinner-item {
 }
 
 #bd-emotes-tab.selected {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 #bd-customcss-tab.selected {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 #bd-themes-tab.selected {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 #bd-settings-tab.selected {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 #bd-plugins-tab.selected {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 #app-mount > div > span:nth-child(6) > div.modal > div > form > div.settings-right > div:nth-child(1) > div > div > div.control-groups > div > div > div.user-settings-streamer-mode-enable-inner > ul > li > div.help-text > a {
-        color: #FFB7C5 !important;
+        color: #00cccc !important;
 }
 
 .tip > a {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 
 #app-mount > div > span:nth-child(6) > div.modal > div > form > div.settings-right > div:nth-child(1) > div > div > div > div > div > div:nth-child(2) > div > label .selected {
-    border-color: #FFB7C5 !important;
+    border-color: #00cccc !important;
 }
 
 #app-mount > div > span:nth-child(6) > div.modal > div > form > div.settings-right > div:nth-child(1) > div > div > div.tab-bar.TOP > div .selected {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 a {
-    color: #FFB7C5 !important;
+    color: #00cccc !important;
 }
 
 .win-close {
@@ -1813,10 +1813,10 @@ a {
 
 
 #friends > div.friends-header > div.tab-bar.UNIQUE > div{
-color: #FFB7C5 !important;}
+color: #00cccc !important;}
 
 #friends > div.friends-header > div.btn{
-color: #FFB7C5 !important;}
+color: #00cccc !important;}
 
 #app-mount > div > span.theme-dark > div > div > div.body {
 background-color: #00cccc !important;
@@ -1836,13 +1836,13 @@ background-color: #00cccc !important;
 }
 
 #app-mount > div > span.theme-dark > div > div > div.body > div > div{
-color: #FFB7C5 !important;}
+color: #00cccc !important;}
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.guilds-wrapper > div > button{
-color: #FFB7C5 !important;}
+color: #00cccc !important;}
 
 #app-mount > div > div.app.flex-vertical.theme-light > div > section > div.guilds-wrapper > div > button{
-color: #FFB7C5 !important;
+color: #00cccc !important;
 opacity: 0.4 !important;
 }
 
@@ -1889,7 +1889,7 @@ border:none !important;}
 }
 
 .spinner-wandering-cubes .spinner-item {
-    background-color: #FFB7C5;
+    background-color: #00cccc;
     width: 10px;
     height: 10px;
     position: absolute;
@@ -1902,12 +1902,12 @@ border:none !important;}
 
 .jump-to-present-bar button{
   background-color: #00cccc !important;
-  color: #FFB7C5 !important;
+  color: #00cccc !important;
 }
 
 .chat .jump-to-present-bar .spinner {
   background-color: #00cccc !important;
-  color: #FFB7C5 !important;
+  color: #00cccc !important;
 }
 
 .new-messages-bar{
@@ -1915,12 +1915,12 @@ border:none !important;}
 }
 
 .spinner-pulsing-ellipsis .spinner-item{
-  background-color: #FFB7C5 !important;
+  background-color: #00cccc !important;
   margin-bottom:-10px !important;
 }
 
 div.tab-bar-item.selected{
-  color: #FFB7C5 !important;
+  color: #00cccc !important;
 }
 
 
@@ -1964,7 +1964,7 @@ div.tab-bar-item.selected{
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
     width: 50px;
     transform: rotate(180deg) !important;
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
 }
 
 div.avatar-uploader-inner {
@@ -1975,7 +1975,7 @@ div.avatar-uploader-inner {
 }
 
 button.btn.icon.icon-logout:hover {
-    background-color: #FFB7C5 !important;
+    background-color: #00cccc !important;
     border-radius: 5px;
 }
 
@@ -1989,7 +1989,7 @@ div.avatar-small{
 }
 
 .welcome-message h1 {
-  color: #FFB7C5 !important;
+  color: #00cccc !important;
 }
 
 .item-group{
@@ -1998,15 +1998,15 @@ div.avatar-small{
 
 .item-group .item{
   background-color: #00cccc !important;
-  color: #FFB7C5 !important;}
+  color: #00cccc !important;}
 }
 
 .emoji-picker .scroller .emoji-item.selected {
-  border-bottom: 2px solid #FFB7C5;
+  border-bottom: 2px solid #00cccc;
 }
 
 .emoji-picker .categories .item.selected{
-  border-bottom-color: #FFB7C5 !important;
+  border-bottom-color: #00cccc !important;
 }
 
 
@@ -2028,7 +2028,7 @@ div.avatar-small{
 
 .option-popout .small-popout-box .btn-item{
   background-color: #00cccc !important;
-color: #FFB7C5 !important;}
+color: #00cccc !important;}
 
 
 span[style='background-image: url("/assets/70b7e4bf8b79bb44805705ef2611393b.svg");'] {
@@ -2056,7 +2056,7 @@ background-color: #00cccc !important;
 border: none;}
 div.btn-item{
 background-color: #00cccc !important;
-color: #FFB7C5 !important;
+color: #00cccc !important;
 border:none;}
 
 
