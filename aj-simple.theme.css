@@ -1,4 +1,4 @@
-//META{"name":"AJ's Theme","description":"Theme 4 aj","author":"Heny","version":"1.0"}*//{}
+//META{"name":"AJ's Theme","description":"Theme 4 aj","author":"den / henry232323","version":"1.0"}*//{}
 
 /* 
 
@@ -10,11 +10,11 @@ Y8b  d8 db   8D db   8D   88   8D    88      88  .8D 88.     88  V888
  `Y88P' `8888Y' `8888Y'   Y8888P'    YP      Y8888D' Y88888P VP   V8P 
 
 Main Colors Used:
-#006600 (0, 102, 0) - Light Pink
-#006600
-#006600
-#006600
-https://orig08.deviantart.net/1686/f/2013/305/2/c/pentool_forest1_by_axl99-d6so5lb.jpg
+#006600 (0,102,0) - Light Pink
+#121212
+#3d3d3d
+#232323
+
 */
 
 body {
@@ -82,7 +82,7 @@ background-size: cover;}
 }
 
 .invite-btn {
-    background-color: rgba(0, 102, 0, 0.5) !important;
+    background-color: rgba(0,102,0, 0.5) !important;
 }
 
 .private-channels .channel:hover:before {
@@ -109,7 +109,7 @@ background-size: cover;}
 }
 
 .inline {
-    background-color: #00660023 !important;
+    background-color: #23232323 !important;
     border-radius: 5px !important;
     font-size: 12px;
     color: #006600 !important;
@@ -174,7 +174,7 @@ background-size: cover;}
 }
 
 .hljs {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
     border-radius: 4px !important;
     font-size: 16px ;
     font-style: normal;
@@ -292,13 +292,13 @@ background-size: cover;}
 }
 
 #voice-connection .btn-info {
-    border-right: 1px solid rgba(0, 102, 0, .3) !important;
+    border-right: 1px solid rgba(0,102,0, .3) !important;
     height: 26px;
     bottom: 2px;
 }
 
 .account .btn-mute {
-    border-right: 1px solid rgba(0, 102, 0, .3) !important;
+    border-right: 1px solid rgba(0,102,0, .3) !important;
     height: 26px;
 }
 
@@ -307,22 +307,22 @@ background-size: cover;}
 }
 
 .account .btn-deafen {
-    border-right: 1px solid rgba(0, 102, 0, .3) !important;
+    border-right: 1px solid rgba(0,102,0, .3) !important;
     height: 26px;
-    background-color: #006600 !important;
+    background-color: #232323 !important;
 }
 
 .account .btn-deafen:hover {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
 }
 
 .account .btn-group, #voice-connection .btn-group {
     border-radius: 10px;
-    background-color: #006600 !important;
+    background-color: #232323 !important;
 }
 
 #voice-connection .btn {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
     border: none;
 }
 
@@ -411,7 +411,7 @@ span.ping{
 }
 
 .guild-header.guild-header-open ul {
-    background-color: #006600 !important;
+    background-color: #121212 !important;
     border-radius: 5px;
     margin-left: 1.2vh;
     width: 15vw;
@@ -544,8 +544,8 @@ span.ping{
 }
 
 .guild-separator {
-    border-top: 2px solid rgba(0, 102, 0, 0.5);
-    border-bottom: 2px solid rgba(0, 102, 0, 0.5);
+    border-top: 2px solid rgba(0,102,0, 0.5);
+    border-bottom: 2px solid rgba(0,102,0, 0.5);
 }
 
 .guild-separator:after {
@@ -566,7 +566,7 @@ span.ping{
 
 .channel-members .member.popout-open {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
-    border-left: 4px solid rgba(0, 102, 0, 0.9);
+    border-left: 4px solid rgba(0,102,0, 0.9);
 }
 
 .status {
@@ -601,7 +601,7 @@ span.ping{
 }
 
 .divider.divider-red>div {
-    background: rgba(0, 102, 0, 0.7) !important;
+    background: rgba(0,102,0, 0.7) !important;
 }
 
 /* Private Chat */
@@ -614,13 +614,13 @@ span.ping{
 }
 
 .private-channels .channel.selected:before {
-    background-color: linear-gradient(to right, rgba(0, 102, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
+    background-color: linear-gradient(to right, rgba(0,102,0, 0.4), rgba(0, 0, 0, 0.0)) !important;
     border-left: 2px solid #006600;
 }
 
 .priavte-channels .channel:hover::before {
     border-left: 2px solid #006600 !important;
-    background-color: linear-gradient(to right, rgba(0, 102, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
+    background-color: linear-gradient(to right, rgba(0,102,0, 0.4), rgba(0, 0, 0, 0.0)) !important;
 }
 
 .friends-header {
@@ -630,7 +630,7 @@ span.ping{
 
 .search-bar-inner input {
     font-size: 62% !important;
-    border: 1px solid rgba(0, 102, 0, 0.4);
+    border: 1px solid rgba(0,102,0, 0.4);
 }
 
 /* Friends */
@@ -638,7 +638,7 @@ span.ping{
 #friends .friends-table .friends-table-body {
     background-color: rgba(35,35,35,0.8) !important;
     border-radius: 5px !important;
-    border: 1px solid rgba(0, 102, 0, 0.0);
+    border: 1px solid rgba(0,102,0, 0.0);
     margin-left: 1.6vw;
     margin-bottom: 2.5vh;
     margin-right: 2.5vh;
@@ -668,7 +668,7 @@ span.ping{
 }
 
 span.bot-tag {
-    background-color: rgba(0, 102, 0, 0.8) !important;
+    background-color: rgba(0,102,0, 0.8) !important;
 }
 
 /* Instant invite section */
@@ -694,12 +694,12 @@ span.bot-tag {
 /* Guilds 'Add' Button */
 
 .guild.guilds-add {
-    border-color: rgba(0, 102, 0, 0.5) !important;
+    border-color: rgba(0,102,0, 0.5) !important;
     border-style: groove !important;
 }
 
 .guild.guilds-add:hover {
-    border-color: rgba(0, 102, 0, 0.9) !important;
+    border-color: rgba(0,102,0, 0.9) !important;
 }
 
 /* Speech bubble CSS */
@@ -727,7 +727,7 @@ span.bot-tag {
 /** Delete comment window **/
 
 .form-inner {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 .form-header header {
@@ -744,11 +744,11 @@ span.bot-tag {
 }
 
 .form-header {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 .form-actions {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 ul li a {
@@ -756,7 +756,7 @@ ul li a {
 }
 
 .header.control-group {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 }
@@ -792,7 +792,7 @@ button.btn.btn-primary {
 }
 
 .settings-actions {
-    background-color: #006600 !important;
+    background-color: #121212 !important;
 }
 
 a.remove-button {
@@ -804,19 +804,19 @@ a.remove-button {
 }
 
 .settings .settings-inner, .settings .settings-actions {
-    background-color: #006600;
+    background-color: #3d3d3d;
 }
 
 div.settings-actions{
-    background-color: #006600 !important;
+    background-color: #121212 !important;
 }
 
 .settings .settings-header {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 .settings-wrapper.settings-panel {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 
@@ -880,7 +880,7 @@ div p a {
 /* User profile popup message box */
 
 .avatar-popout {
-    border: 3px dotted rgba(0, 102, 0, 0.7) !important;
+    border: 3px dotted rgba(0,102,0, 0.7) !important;
     background-color: rgba(255, 255, 255, 0.8) !important;
 }
 
@@ -917,11 +917,11 @@ a.channel-name.channel-private {
 }
 
 .form-inner.loading {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
 }
 
 div.footer {
-background-color: #006600 !important;
+background-color: #3d3d3d !important;
 }
 
 #user-profile-modal .scroller {
@@ -965,7 +965,7 @@ img.image {
 }
 
 div.form-inner {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
 }
 
 .connection-integrations.no-integrations div {
@@ -982,19 +982,19 @@ div.form-inner {
 
 header.header {
     background: transparent !important;
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 div.sub-header {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 #user-profile-modal > div.tab-bar.TOP{
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 div#user-profile-modal footer {
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 .add-friend{
@@ -1044,23 +1044,23 @@ div.help-text {
 
 .channel-pins-wrap {
     background: transparent !important;
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 .channel-pins-wrap .header {
     background: transparent !important;
-    background-color: rgba(0, 102, 0, 0.7) !important;
+    background-color: rgba(0,102,0, 0.7) !important;
 }
 
 .channel-pins .message-group {
     background: transparent !important;
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
     border: 1px solid #006600 !important;
 }
 
 .action-buttons .jump-button {
     background: transparent !important;
-    background-color: rgba(0, 102, 0, 0.6) !important;
+    background-color: rgba(0,102,0, 0.6) !important;
     border: 1px solid rgba(0, 0, 0, 0.4) !important;
 }
 
@@ -1070,15 +1070,15 @@ div.help-text {
 
 .channel-members .member:hover {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.0)) !important;
-    border-left: 4px solid rgba(0, 102, 0, 0.3);
+    border-left: 4px solid rgba(0,102,0, 0.3);
 }
 
 li div span {
-    color: rgba(0, 102, 0, 0.8) !important;
+    color: rgba(0,102,0, 0.8) !important;
 }
 
 .channel-name:before {
-    color: rgba(0, 102, 0, 0.9) !important;
+    color: rgba(0,102,0, 0.9) !important;
 }
 
 .action.create {
@@ -1159,7 +1159,7 @@ div.new-messages-bar button {
 }
 
 .tab-bar.SIDE {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
 }
 
 .tab-bar.SIDE .tab-bar-item {
@@ -1183,12 +1183,12 @@ div.new-messages-bar button {
 
 #pubs-container {
     background: transparent !important;
-    background-color:#006600 !important;
+    background-color:#3d3d3d !important;
     border-radius: 10px !important;
 }
 
 #pubs-header {
-    background-color: #006600 !important;
+    background-color: #232323 !important;
     border-top-right-radius: 5px !important;
     border-top-left-radius: 5px !important;
 }
@@ -1196,24 +1196,24 @@ div.new-messages-bar button {
 
 
 #pubs-container > div.server-row.server-pinned{
-    background-color: #006600 !important;
-    border-bottom: 3px solid #006600 !important;
+    background-color: #3d3d3d !important;
+    border-bottom: 3px solid #232323 !important;
 }
 
 #pubs-list > div{
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
     transition: all .3s ease-in-out;
 }
 
 
 .server-row button {
-    background-color: rgba(0, 102, 0, 0.7) !important;
+    background-color: rgba(0,102,0, 0.7) !important;
     border-radius: 5px;
     transition: all .3s ease-in-out;
 }
 
 .server-row button:hover {
-    background-color: rgba(0, 102, 0, 0.7) !important;
+    background-color: rgba(0,102,0, 0.7) !important;
     border-radius: 5px;
     transition: all .3s ease-in-out;
 }
@@ -1223,14 +1223,14 @@ div.new-messages-bar button {
 }
 
 .bd-dropdown-select {
-    background-color: rgba(0, 102, 0, 0.9) !important;
+    background-color: rgba(0,102,0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     border-radius: 5px;
 }
 
 input#pubs-sterm {
-    background-color: rgba(0, 102, 0, 0.9) !important;
+    background-color: rgba(0,102,0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     padding-left: 7px;
@@ -1241,7 +1241,7 @@ input#pubs-sterm {
 }
 
 button#pubs-searchbtn {
-    background-color: rgba(0, 102, 0, 0.9) !important;
+    background-color: rgba(0,102,0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     border-radius: 5px;
@@ -1253,7 +1253,7 @@ div.bd-dropdown-list {
 
 .pubs-cat-select-li {
     background: transparent !important;
-    background-color: rgba(0, 102, 0, 0.8) !important;
+    background-color: rgba(0,102,0, 0.8) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
 }
@@ -1283,7 +1283,7 @@ div.bd-dropdown {
 @keyframes color_change {
   from {
     
-    color: #006600;
+    color: #3d3d3d;
   }
   to {
     
@@ -1294,7 +1294,7 @@ div.bd-dropdown {
 
 #pubs-footer {
     background: transparent !important;
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
     border-bottom-right-radius: 10px !important;
     border-bottom-left-radius: 10px !important;
     border-top: 1px solid rgba(255,255,255,0.3);
@@ -1339,7 +1339,7 @@ div.bd-dropdown {
 }
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > form > div > div.channel-textarea-autocomplete > div > ul {
-    background-color: rgba(0, 102, 0,0.6) !important;
+    background-color: rgba(0,102,0,0.6) !important;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
 }
@@ -1349,7 +1349,7 @@ div.bd-dropdown {
 }
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > form > div > div.channel-textarea-autocomplete > div > header {
-    background-color: rgba(0, 102, 0,0.8) !important;
+    background-color: rgba(0,102,0,0.8) !important;
     color: #fff !important;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -1435,7 +1435,7 @@ div[data-bd="backdrop"] {
 
 .title-wrap {
     box-shadow: none !important;
-    background-color: #006600;
+    background-color: #121212;
 }
 
 .markup a {
@@ -1455,16 +1455,16 @@ div[data-bd="backdrop"] {
     border: transparent;
     color: #ffffff;
     height: 58px;
-    background-color: #006600;
+    background-color: #232323;
     width: 120%;
 }
 
 div.guild-header header {
-    background-color: #006600;
+    background-color: #121212;
 }
 
 .guild-channels {
-    background-color: #006600;
+    background-color: #121212;
     border-right: 1px solid transparent;
     margin-left: 2vh px;
     margin-top: 59px;
@@ -1477,7 +1477,7 @@ div.guild-header header {
 .channel-textarea-inner textarea {
     padding-left: 10 px;
     margin-bottom: -10px;
-    color: rgba(0, 102, 0, 0.7) !important;
+    color: rgba(0,102,0, 0.7) !important;
     background-color: transparent !important;
     margin-top: -5px;
     padding-top: 2px;
@@ -1488,7 +1488,7 @@ div.guild-header header {
     border-radius: 0px;
     border-top-right-radius: 4px;
     border-top-left-radius: 4px;
-    border: 1px solid rgba(0, 102, 0, 0.0) !important;
+    border: 1px solid rgba(0,102,0, 0.0) !important;
     margin-top: 1.6vhpx;
     margin-left: 2vh px;
     -webkit-mask-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 2%, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%) !important;
@@ -1530,11 +1530,11 @@ div.channel-textarea-inner textarea {
 }
 
 div.flex-spacer.flex-vertical form {
-    background-color: #006600;
+    background-color: #121212;
 }
 
 .avatar-large {
-    border: 3px solid rgba(0, 102, 0,0.6) !important;
+    border: 3px solid rgba(0,102,0,0.6) !important;
     width: 30px;
     height: 30px;
     border-radius:4px !important;
@@ -1550,7 +1550,7 @@ div.flex-spacer.flex-vertical form {
     transition: all 900ms ease !important;
     background-color: rgba(0,0,0,0.3) !important;
     border-right-width: 5px !important;
-    border-color: #006600 !important;
+    border-color: #121212 !important;
     border-style: solid !important;
     width: 70px !important;
     margin-top: 20% !important;
@@ -1579,7 +1579,7 @@ span.text.strong {
 }
 
 spinner-pulsing-ellipsis .spinner-item {
-    background-color: rgba(0, 102, 0,0.4) !important;
+    background-color: rgba(0,102,0,0.4) !important;
 }
 
 
@@ -1732,7 +1732,7 @@ spinner-pulsing-ellipsis .spinner-item {
 }
 
 #bd-themes-pane > ul > li{
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 #bd-themes-pane > ul > li > div.bda-left > div > div{
@@ -1740,7 +1740,7 @@ spinner-pulsing-ellipsis .spinner-item {
 }
 
 #bd-plugins-pane > ul > li{
-    background-color: #006600 !important;
+    background-color: #3d3d3d !important;
 }
 
 #bd-plugins-pane > ul > li > div.bda-left > div > div{
@@ -1819,20 +1819,20 @@ color: #006600 !important;}
 color: #006600 !important;}
 
 #app-mount > div > span.theme-dark > div > div > div.body {
-background-color: #006600 !important;
+background-color: #3d3d3d !important;
 }
 
 #app-mount > div > span.theme-dark > div > div > div.footer {
-background-color: #006600 !important;
+background-color: #3d3d3d !important;
 }
 
 
 #app-mount > div > span.theme-light > div > div > div.body {
-background-color: #006600 !important;
+background-color: #3d3d3d !important;
 }
 
 #app-mount > div > span.theme-light > div > div > div.footer {
-background-color: #006600 !important;
+background-color: #3d3d3d !important;
 }
 
 #app-mount > div > span.theme-dark > div > div > div.body > div > div{
@@ -1854,10 +1854,10 @@ opacity: 1 !important;}
 }
 
 .theme-light .highlight{
-  background-color: #006600 !important;
+  background-color: #232323 !important;
 }
 div.settings-right > div.settings-actions{
-background-color: #006600 !important;}
+background-color: #3d3d3d !important;}
 
 
 /* Exclamation, Invite, Mobile and Twitter SVGs */
@@ -1901,17 +1901,17 @@ border:none !important;}
 
 
 .jump-to-present-bar button{
-  background-color: #006600 !important;
+  background-color: #3d3d3d !important;
   color: #006600 !important;
 }
 
 .chat .jump-to-present-bar .spinner {
-  background-color: #006600 !important;
+  background-color: #3d3d3d !important;
   color: #006600 !important;
 }
 
 .new-messages-bar{
-  background-color: #006600 !important;
+  background-color: #3d3d3d !important;
 }
 
 .spinner-pulsing-ellipsis .spinner-item{
@@ -1993,11 +1993,11 @@ div.avatar-small{
 }
 
 .item-group{
-  background-color: #006600 !important;
+  background-color: #232323 !important;
 }
 
 .item-group .item{
-  background-color: #006600 !important;
+  background-color: #232323 !important;
   color: #006600 !important;}
 }
 
@@ -2023,11 +2023,11 @@ div.avatar-small{
 }
 
 .option-popout .small-popout-box{
-  background-color: #006600 !important;
+  background-color: #232323 !important;
 }
 
 .option-popout .small-popout-box .btn-item{
-  background-color: #006600 !important;
+  background-color: #232323 !important;
 color: #006600 !important;}
 
 
@@ -2052,10 +2052,10 @@ span[style='background-image: url("/assets/535815751d1ba2ac3d45300dca6356d9.svg"
 
 
 div.option-popout.small-popout-box{
-background-color: #006600 !important;
+background-color: #232323 !important;
 border: none;}
 div.btn-item{
-background-color: #006600 !important;
+background-color: #232323 !important;
 color: #006600 !important;
 border:none;}
 
