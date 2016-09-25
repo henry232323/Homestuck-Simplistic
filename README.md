@@ -2,40 +2,9 @@
 
 Big thank you to Nirewen#6392, Jiiks, Maware#2031, Omniscient#7994, Zerthox#6648 and Hammock#6027 for helping with all of the CSS issues I encountered. Apologies if I have forgotten to mention anyone.
 
-Spades Slick:
+#Spades Slick:
 
 ![Preview](https://raw.githubusercontent.com/henry232323/Simplistic-CSS/master/spades-preview.JPG)
-
-Solid Green Simplistic:
-
-<img src="https://i.imgur.com/ibz3hRh.png"/>
-
-Green Background (Transparent)
-
-<img src="https://i.imgur.com/exNKYgU.png"/>
-
-Solid Blue Simplistic
-
-<img src="https://i.imgur.com/WSvxIeZ.png"/>
-
-Oceanic Blue (Transparent)
-
-<img src="https://i.imgur.com/ajqDEoo.png"/>
-
-Mawares Shade (Transparent)
-
-<img src="https://i.imgur.com/sFxJ0D0.png"/>
-
-Vibrant Pink (Transparent)
-
-<img src="https://i.imgur.com/Ac3266Q.png"/>
-
-Dubai Orange (Transparent)
-
-<img src="https://i.imgur.com/lsp3ajP.png"/>
-
-
-
 
 # Installation:
 
