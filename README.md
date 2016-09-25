@@ -4,7 +4,7 @@ Big thank you to Nirewen#6392, Jiiks, Maware#2031, Omniscient#7994, Zerthox#6648
 
 Spades Slick:
 
-![Preview]()
+![Preview](https://raw.githubusercontent.com/henry232323/Simplistic-CSS/master/spades-preview.JPG)
 
 Solid Green Simplistic:
 
