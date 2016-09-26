@@ -2,9 +2,14 @@
 
 Big thank you to Nirewen#6392, Jiiks, Maware#2031, Omniscient#7994, Zerthox#6648 and Hammock#6027 for helping with all of the CSS issues I encountered. Apologies if I have forgotten to mention anyone.
 
-#Spades Slick:
-
+##Spades Slick:
 ![Preview](https://raw.githubusercontent.com/henry232323/Simplistic-CSS/master/spades-preview.JPG)
+
+##AJ's
+![Preview](https://raw.githubusercontent.com/henry232323/Homestuck-Simplistic/master/aj-simple-preview.JPG)
+
+##Custom
+![Preview](https://raw.githubusercontent.com/henry232323/Homestuck-Simplistic/master/custom-simple-preview.JPG)
 
 # Installation:
 
